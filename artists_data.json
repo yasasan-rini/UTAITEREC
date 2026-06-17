@@ -1,0 +1,1733 @@
+{
+  "voice_categories": {
+    "High Voice": {
+      "label": "Range Tinggi",
+      "desc": "Tenor/Mezzo with high range",
+      "artists": [
+        "Mafumafu",
+        "Eve",
+        "Ado"
+      ]
+    },
+    "Deep Voice": {
+      "label": "Range Rendah",
+      "desc": "Baritone with deep voice",
+      "artists": [
+        "Soraru",
+        "Urata",
+        "Sakata"
+      ]
+    },
+    "Breathy": {
+      "label": "Breathy/Soft",
+      "desc": "Gentle, airy voice",
+      "artists": [
+        "Sou",
+        "Tuki",
+        "Otomose Raco"
+      ]
+    },
+    "Powerful": {
+      "label": "Powerful",
+      "desc": "Strong, belting voice",
+      "artists": [
+        "Gero",
+        "nqrse",
+        "Chogakusei",
+        "Reol"
+      ]
+    },
+    "Versatile": {
+      "label": "Versatile",
+      "desc": "Flexible, multi-range",
+      "artists": [
+        "Eve",
+        "Mafumafu",
+        "Meychan"
+      ]
+    },
+    "Unique": {
+      "label": "Husky/Unique",
+      "desc": "Distinctive texture",
+      "artists": [
+        "96Neko",
+        "Luz",
+        "Amatsuki"
+      ]
+    }
+  },
+  "voice_cat_groups": {
+    "High Voice": [
+      {
+        "short_name": "Mafumafu",
+        "name": "Mafumafu",
+        "genre": "J-Pop, Rock, Vocaloid, Electronic",
+        "short_desc": "Japanese singer-songwriter with broad vocal range spanning over five octaves."
+      },
+      {
+        "short_name": "Eve",
+        "name": "Eve",
+        "genre": "J-Pop, Rock, Electronic",
+        "short_desc": "Japanese singer-songwriter known for his distinctive thin, boyish voice and surreal ani..."
+      },
+      {
+        "short_name": "Ado",
+        "name": "Ado",
+        "genre": "J-Pop, Rock, Punk, Electronic, Dance",
+        "short_desc": "Japanese singer who debuted at age 17 with 'Usseewa' which topped Billboard Japan Hot 100."
+      }
+    ],
+    "Deep Voice": [
+      {
+        "short_name": "Soraru",
+        "name": "Soraru",
+        "genre": "J-Pop, Rock, Vocaloid",
+        "short_desc": "Japanese male utaite singer and songwriter."
+      },
+      {
+        "short_name": "Urata",
+        "name": "Urata (Uratanuki)",
+        "genre": "J-Pop, Pop, Anisong",
+        "short_desc": "Japanese utaite with smooth, cute and nasal voice."
+      },
+      {
+        "short_name": "Sakata",
+        "name": "Sakata (Aho no Sakata)",
+        "genre": "J-Pop, Pop, Comedy",
+        "short_desc": "Japanese utaite known for unique gravelly voice and comedic covers."
+      }
+    ],
+    "Breathy": [
+      {
+        "short_name": "Sou",
+        "name": "Sou",
+        "genre": "J-Pop, Rock, Vocaloid, Electronic",
+        "short_desc": "Japanese utaite known for calm and refreshing voice."
+      },
+      {
+        "short_name": "Tuki",
+        "name": "Tuki",
+        "genre": "J-Pop, Acoustic, Singer-songwriter, Ballad",
+        "short_desc": "16-year-old Japanese singer-songwriter who debuted with 'Bansanka' in 2023."
+      },
+      {
+        "short_name": "Otomose Raco",
+        "name": "Otomose Raco",
+        "genre": "J-Pop, VTuber Music, Acoustic",
+        "short_desc": "Japanese VTuber and singer affiliated with MilPro Nova."
+      }
+    ],
+    "Powerful": [
+      {
+        "short_name": "Gero",
+        "name": "Gero",
+        "genre": "J-Pop, Rock, Anisong, Metal",
+        "short_desc": "Japanese rock and anisong singer known for powerful, emotional voice spanning four octa..."
+      },
+      {
+        "short_name": "nqrse",
+        "name": "nqrse",
+        "genre": "Hip-Hop, Rap, Vocaloid, J-Pop",
+        "short_desc": "Japanese utaite rapper known for powerful and expressive rap verses."
+      },
+      {
+        "short_name": "Chogakusei",
+        "name": "Chogakusei",
+        "genre": "J-Pop, Rock, Vocaloid, Metal",
+        "short_desc": "Japanese utaite known for low and raspy voice with signature black Venetian mask in cov..."
+      },
+      {
+        "short_name": "Reol",
+        "name": "Reol",
+        "genre": "J-Pop, Electronic, Hip-Hop, EDM",
+        "short_desc": "Japanese singer-songwriter and record producer."
+      }
+    ],
+    "Versatile": [
+      {
+        "short_name": "Eve",
+        "name": "Eve",
+        "genre": "J-Pop, Rock, Electronic",
+        "short_desc": "Japanese singer-songwriter known for his distinctive thin, boyish voice and surreal ani..."
+      },
+      {
+        "short_name": "Mafumafu",
+        "name": "Mafumafu",
+        "genre": "J-Pop, Rock, Vocaloid, Electronic",
+        "short_desc": "Japanese singer-songwriter with broad vocal range spanning over five octaves."
+      },
+      {
+        "short_name": "Meychan",
+        "name": "Meychan",
+        "genre": "J-Pop, Vocaloid, Jazz, Rock",
+        "short_desc": "Japanese utaite who started in 2011 at age 15."
+      }
+    ],
+    "Unique": [
+      {
+        "short_name": "96Neko",
+        "name": "96Neko (Kuroneko)",
+        "genre": "J-Pop, Vocaloid, Rock, Pop",
+        "short_desc": "Japanese utaite known for husky, lower-range vocals and being a 'ryouseirui' (able to s..."
+      },
+      {
+        "short_name": "Luz",
+        "name": "Luz",
+        "genre": "J-Pop, Vocaloid, Ballad, Electronic",
+        "short_desc": "Japanese utaite with upper register voice that was uniquely emotive."
+      },
+      {
+        "short_name": "Amatsuki",
+        "name": "Amatsuki",
+        "genre": "J-Pop, Pop, Vocaloid, Anisong",
+        "short_desc": "Japanese utaite musician and YouTuber born June 30, 1991."
+      }
+    ]
+  },
+  "popular_now": [
+    {
+      "rank": 1,
+      "short_name": "Eve",
+      "name": "Eve"
+    },
+    {
+      "rank": 2,
+      "short_name": "Ado",
+      "name": "Ado"
+    },
+    {
+      "rank": 3,
+      "short_name": "Mafumafu",
+      "name": "Mafumafu"
+    },
+    {
+      "rank": 4,
+      "short_name": "Amatsuki",
+      "name": "Amatsuki"
+    },
+    {
+      "rank": 5,
+      "short_name": "Reol",
+      "name": "Reol"
+    }
+  ],
+  "underrated_list": [
+    {
+      "rank": 1,
+      "short_name": "AKUGETSU",
+      "name": "AKUGETSU"
+    },
+    {
+      "rank": 2,
+      "short_name": "Luz",
+      "name": "Luz"
+    },
+    {
+      "rank": 3,
+      "short_name": "Senra",
+      "name": "Senra"
+    },
+    {
+      "rank": 4,
+      "short_name": "Dongdang",
+      "name": "Dongdang"
+    },
+    {
+      "rank": 5,
+      "short_name": "Otomose Raco",
+      "name": "Otomose Raco"
+    }
+  ],
+  "alphabet_groups": {
+    "9": [
+      {
+        "short_name": "96Neko",
+        "name": "96Neko (Kuroneko)",
+        "genre": "J-Pop, Vocaloid, Rock, Pop",
+        "types": [
+          "Soloist",
+          "Cover Artist",
+          "VTuber"
+        ]
+      }
+    ],
+    "A": [
+      {
+        "short_name": "Ado",
+        "name": "Ado",
+        "genre": "J-Pop, Rock, Punk, Electronic, Dance",
+        "types": [
+          "Soloist",
+          "Utaite"
+        ]
+      },
+      {
+        "short_name": "AKUGETSU",
+        "name": "AKUGETSU",
+        "genre": "J-Pop, Rock, Vocaloid, K-Pop",
+        "types": [
+          "Soloist",
+          "Cover Artist",
+          "Voice Actor"
+        ]
+      },
+      {
+        "short_name": "Amatsuki",
+        "name": "Amatsuki",
+        "genre": "J-Pop, Pop, Vocaloid, Anisong",
+        "types": [
+          "Soloist",
+          "Cover Artist",
+          "YouTuber"
+        ]
+      },
+      {
+        "short_name": "Araki",
+        "name": "Araki",
+        "genre": "J-Pop, Rock, Vocaloid, Metal",
+        "types": [
+          "Soloist",
+          "Cover Artist"
+        ]
+      }
+    ],
+    "C": [
+      {
+        "short_name": "Chogakusei",
+        "name": "Chogakusei",
+        "genre": "J-Pop, Rock, Vocaloid, Metal",
+        "types": [
+          "Soloist",
+          "Cover Artist",
+          "Songwriter"
+        ]
+      }
+    ],
+    "D": [
+      {
+        "short_name": "Dongdang",
+        "name": "Dongdang",
+        "genre": "J-Pop, Vocaloid, K-Pop, Ballad",
+        "types": [
+          "Soloist",
+          "Cover Artist"
+        ]
+      }
+    ],
+    "E": [
+      {
+        "short_name": "Eve",
+        "name": "Eve",
+        "genre": "J-Pop, Rock, Electronic",
+        "types": [
+          "Soloist",
+          "Vocaloid Producer",
+          "Songwriter"
+        ]
+      }
+    ],
+    "G": [
+      {
+        "short_name": "Gero",
+        "name": "Gero",
+        "genre": "J-Pop, Rock, Anisong, Metal",
+        "types": [
+          "Soloist",
+          "Cover Artist",
+          "Radio Personality"
+        ]
+      }
+    ],
+    "L": [
+      {
+        "short_name": "Luz",
+        "name": "Luz",
+        "genre": "J-Pop, Vocaloid, Ballad, Electronic",
+        "types": [
+          "Soloist",
+          "Cover Artist"
+        ]
+      }
+    ],
+    "M": [
+      {
+        "short_name": "Mafumafu",
+        "name": "Mafumafu",
+        "genre": "J-Pop, Rock, Vocaloid, Electronic",
+        "types": [
+          "Soloist",
+          "Cover Artist",
+          "Songwriter"
+        ]
+      },
+      {
+        "short_name": "Meychan",
+        "name": "Meychan",
+        "genre": "J-Pop, Vocaloid, Jazz, Rock",
+        "types": [
+          "Soloist",
+          "Cover Artist",
+          "Songwriter"
+        ]
+      }
+    ],
+    "N": [
+      {
+        "short_name": "nqrse",
+        "name": "nqrse",
+        "genre": "Hip-Hop, Rap, Vocaloid, J-Pop",
+        "types": [
+          "Rapper",
+          "Utaite",
+          "Lyricist"
+        ]
+      }
+    ],
+    "O": [
+      {
+        "short_name": "Otomose Raco",
+        "name": "Otomose Raco",
+        "genre": "J-Pop, VTuber Music, Acoustic",
+        "types": [
+          "Soloist",
+          "VTuber",
+          "Cover Artist"
+        ]
+      }
+    ],
+    "R": [
+      {
+        "short_name": "Reol",
+        "name": "Reol",
+        "genre": "J-Pop, Electronic, Hip-Hop, EDM",
+        "types": [
+          "Soloist",
+          "Songwriter",
+          "Composer"
+        ]
+      }
+    ],
+    "S": [
+      {
+        "short_name": "Sakata",
+        "name": "Sakata (Aho no Sakata)",
+        "genre": "J-Pop, Pop, Comedy",
+        "types": [
+          "Soloist",
+          "Idol",
+          "Cover Artist"
+        ]
+      },
+      {
+        "short_name": "Senra",
+        "name": "Senra",
+        "genre": "J-Pop, Pop, Ballad",
+        "types": [
+          "Soloist",
+          "Idol",
+          "Cover Artist"
+        ]
+      },
+      {
+        "short_name": "Shima",
+        "name": "Shima",
+        "genre": "J-Pop, Rock, Pop",
+        "types": [
+          "Soloist",
+          "Idol",
+          "Cover Artist"
+        ]
+      },
+      {
+        "short_name": "Soraru",
+        "name": "Soraru",
+        "genre": "J-Pop, Rock, Vocaloid",
+        "types": [
+          "Soloist",
+          "Cover Artist",
+          "Songwriter"
+        ]
+      },
+      {
+        "short_name": "Sou",
+        "name": "Sou",
+        "genre": "J-Pop, Rock, Vocaloid, Electronic",
+        "types": [
+          "Soloist",
+          "Cover Artist"
+        ]
+      }
+    ],
+    "T": [
+      {
+        "short_name": "Tuki",
+        "name": "Tuki",
+        "genre": "J-Pop, Acoustic, Singer-songwriter, Ballad",
+        "types": [
+          "Soloist"
+        ]
+      }
+    ],
+    "U": [
+      {
+        "short_name": "Urata",
+        "name": "Urata (Uratanuki)",
+        "genre": "J-Pop, Pop, Anisong",
+        "types": [
+          "Soloist",
+          "Idol",
+          "Cover Artist"
+        ]
+      }
+    ]
+  },
+  "artists": [
+    {
+      "no": 1,
+      "short_name": "Eve",
+      "name": "Eve",
+      "genre": "J-Pop, Rock, Electronic",
+      "genres_list": [
+        "J-Pop",
+        "Rock",
+        "Electronic"
+      ],
+      "type": "Soloist, Vocaloid Producer, Songwriter",
+      "types_list": [
+        "Soloist",
+        "Vocaloid Producer",
+        "Songwriter"
+      ],
+      "group": "N/A",
+      "description": "Japanese singer-songwriter known for his distinctive thin, boyish voice and surreal animated music videos. Famous for 'Kaikai Kitan' (Jujutsu Kaisen OP) and 'Fight Song' (Chainsaw Man ED). Started as utaite on Niconico in 2009.",
+      "short_desc": "Japanese singer-songwriter known for his distinctive thin, boyish voice and surreal ani...",
+      "socials_raw": "YouTube: 5.39M subscribers | X: 900K+ | Instagram: 939K | TikTok: 200K+",
+      "social_platforms": [
+        "tiktok",
+        "instagram",
+        "x",
+        "youtube"
+      ],
+      "voice_categories": [
+        "High Voice",
+        "Versatile"
+      ],
+      "popularity_score": 6499500.0,
+      "similar": [
+        {
+          "name": "Mafumafu",
+          "score": 18
+        },
+        {
+          "name": "Ado",
+          "score": 12
+        },
+        {
+          "name": "Meychan",
+          "score": 12
+        },
+        {
+          "name": "Soraru",
+          "score": 8
+        },
+        {
+          "name": "Sou",
+          "score": 8
+        },
+        {
+          "name": "Chogakusei",
+          "score": 8
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "short_name": "Ado",
+      "name": "Ado",
+      "genre": "J-Pop, Rock, Punk, Electronic, Dance",
+      "genres_list": [
+        "J-Pop",
+        "Rock",
+        "Punk",
+        "Electronic",
+        "Dance"
+      ],
+      "type": "Soloist, Utaite",
+      "types_list": [
+        "Soloist",
+        "Utaite"
+      ],
+      "group": "N/A",
+      "description": "Japanese singer who debuted at age 17 with 'Usseewa' which topped Billboard Japan Hot 100. Known for not showing her face. Sang 'New Genesis' for One Piece Film: Red. First solo female artist to perform at Japan National Stadium.",
+      "short_desc": "Japanese singer who debuted at age 17 with 'Usseewa' which topped Billboard Japan Hot 100.",
+      "socials_raw": "YouTube: 2.2M+ subscribers | X: 800K+ | Instagram: 600K+ | Spotify: 6.7M monthly listeners",
+      "social_platforms": [
+        "spotify",
+        "instagram",
+        "x",
+        "youtube"
+      ],
+      "voice_categories": [
+        "High Voice"
+      ],
+      "popularity_score": 6140000.0,
+      "similar": [
+        {
+          "name": "Eve",
+          "score": 12
+        },
+        {
+          "name": "Mafumafu",
+          "score": 12
+        },
+        {
+          "name": "Sou",
+          "score": 8
+        },
+        {
+          "name": "Soraru",
+          "score": 6
+        },
+        {
+          "name": "Shima",
+          "score": 6
+        },
+        {
+          "name": "Gero",
+          "score": 6
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "short_name": "Mafumafu",
+      "name": "Mafumafu",
+      "genre": "J-Pop, Rock, Vocaloid, Electronic",
+      "genres_list": [
+        "J-Pop",
+        "Rock",
+        "Vocaloid",
+        "Electronic"
+      ],
+      "type": "Soloist, Cover Artist, Songwriter",
+      "types_list": [
+        "Soloist",
+        "Cover Artist",
+        "Songwriter"
+      ],
+      "group": "After the Rain (with Soraru)",
+      "description": "Japanese singer-songwriter with broad vocal range spanning over five octaves. Known for white-haired, red-eyed character avatar. First utaite to perform at NHK Kohaku Uta Gassen in 2021. Also a VTuber and co-manager of Neo-Porte agency.",
+      "short_desc": "Japanese singer-songwriter with broad vocal range spanning over five octaves.",
+      "socials_raw": "YouTube: 3.6M subscribers | Niconico: 2.07M mylists | X: 1M+ | Twitcast: 500K+",
+      "social_platforms": [
+        "twitcast",
+        "niconico",
+        "x",
+        "youtube"
+      ],
+      "voice_categories": [
+        "High Voice",
+        "Versatile"
+      ],
+      "popularity_score": 5178000.0,
+      "similar": [
+        {
+          "name": "Eve",
+          "score": 18
+        },
+        {
+          "name": "Meychan",
+          "score": 16
+        },
+        {
+          "name": "Soraru",
+          "score": 14
+        },
+        {
+          "name": "Ado",
+          "score": 12
+        },
+        {
+          "name": "Sou",
+          "score": 12
+        },
+        {
+          "name": "Chogakusei",
+          "score": 12
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "short_name": "Soraru",
+      "name": "Soraru",
+      "genre": "J-Pop, Rock, Vocaloid",
+      "genres_list": [
+        "J-Pop",
+        "Rock",
+        "Vocaloid"
+      ],
+      "type": "Soloist, Cover Artist, Songwriter",
+      "types_list": [
+        "Soloist",
+        "Cover Artist",
+        "Songwriter"
+      ],
+      "group": "After the Rain (with Mafumafu), Neo-Porte",
+      "description": "Japanese male utaite singer and songwriter. Co-founder of Neo-Porte VTuber agency. Known for deep, soothing voice and frequent collaborations with Mafumafu as After the Rain.",
+      "short_desc": "Japanese male utaite singer and songwriter.",
+      "socials_raw": "YouTube: 1.5M+ subscribers | Niconico: 2.19M mylists | X: 900K+",
+      "social_platforms": [
+        "niconico",
+        "x",
+        "youtube"
+      ],
+      "voice_categories": [
+        "Deep Voice"
+      ],
+      "popularity_score": 1416000.0,
+      "similar": [
+        {
+          "name": "Mafumafu",
+          "score": 14
+        },
+        {
+          "name": "Meychan",
+          "score": 12
+        },
+        {
+          "name": "Chogakusei",
+          "score": 12
+        },
+        {
+          "name": "Urata",
+          "score": 10
+        },
+        {
+          "name": "Sakata",
+          "score": 10
+        },
+        {
+          "name": "Sou",
+          "score": 10
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "short_name": "Urata",
+      "name": "Urata (Uratanuki)",
+      "genre": "J-Pop, Pop, Anisong",
+      "genres_list": [
+        "J-Pop",
+        "Pop",
+        "Anisong"
+      ],
+      "type": "Soloist, Idol, Cover Artist, Voice Actor",
+      "types_list": [
+        "Soloist",
+        "Idol",
+        "Cover Artist",
+        "Voice Actor"
+      ],
+      "group": "Urashimasakatasen (USSS) - Leader",
+      "description": "Japanese utaite with smooth, cute and nasal voice. Leader of Urashimasakatasen. Known for voice acting and covering various songs. Also part of soramafuurasaka unit with Soraru, Mafumafu, and Sakata.",
+      "short_desc": "Japanese utaite with smooth, cute and nasal voice.",
+      "socials_raw": "YouTube: 500K+ subscribers | X: 300K+ | Instagram: 200K+ | Niconico: 100K+",
+      "social_platforms": [
+        "niconico",
+        "instagram",
+        "x",
+        "youtube"
+      ],
+      "voice_categories": [
+        "Deep Voice"
+      ],
+      "popularity_score": 320000.0,
+      "similar": [
+        {
+          "name": "Sakata",
+          "score": 14
+        },
+        {
+          "name": "Soraru",
+          "score": 10
+        },
+        {
+          "name": "Shima",
+          "score": 10
+        },
+        {
+          "name": "Senra",
+          "score": 10
+        },
+        {
+          "name": "Amatsuki",
+          "score": 10
+        },
+        {
+          "name": "Gero",
+          "score": 8
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "short_name": "Sakata",
+      "name": "Sakata (Aho no Sakata)",
+      "genre": "J-Pop, Pop, Comedy",
+      "genres_list": [
+        "J-Pop",
+        "Pop",
+        "Comedy"
+      ],
+      "type": "Soloist, Idol, Cover Artist",
+      "types_list": [
+        "Soloist",
+        "Idol",
+        "Cover Artist"
+      ],
+      "group": "Urashimasakatasen (USSS)",
+      "description": "Japanese utaite known for unique gravelly voice and comedic covers. Member of Urashimasakatasen with signature red color. Known for imitating Sakata Gintoki from Gintama. Also part of soramafuurasaka.",
+      "short_desc": "Japanese utaite known for unique gravelly voice and comedic covers.",
+      "socials_raw": "YouTube: 600K+ subscribers | X: 400K+ | Niconico: 150K+",
+      "social_platforms": [
+        "niconico",
+        "x",
+        "youtube"
+      ],
+      "voice_categories": [
+        "Deep Voice"
+      ],
+      "popularity_score": 300000.0,
+      "similar": [
+        {
+          "name": "Urata",
+          "score": 14
+        },
+        {
+          "name": "Shima",
+          "score": 12
+        },
+        {
+          "name": "Senra",
+          "score": 12
+        },
+        {
+          "name": "Soraru",
+          "score": 10
+        },
+        {
+          "name": "Amatsuki",
+          "score": 8
+        },
+        {
+          "name": "96Neko",
+          "score": 8
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "short_name": "Shima",
+      "name": "Shima",
+      "genre": "J-Pop, Rock, Pop",
+      "genres_list": [
+        "J-Pop",
+        "Rock",
+        "Pop"
+      ],
+      "type": "Soloist, Idol, Cover Artist",
+      "types_list": [
+        "Soloist",
+        "Idol",
+        "Cover Artist"
+      ],
+      "group": "Urashimasakatasen (USSS)",
+      "description": "Japanese utaite with sexy and confident voice. Member of Urashimasakatasen with purple as his color. Known for wide vocal range and voice acting skills. Released first solo album 'First Order' in 2018.",
+      "short_desc": "Japanese utaite with sexy and confident voice.",
+      "socials_raw": "YouTube: 700K+ subscribers | X: 350K+ | Instagram: 150K+",
+      "social_platforms": [
+        "instagram",
+        "x",
+        "youtube"
+      ],
+      "voice_categories": [],
+      "popularity_score": 285000.0,
+      "similar": [
+        {
+          "name": "Sakata",
+          "score": 12
+        },
+        {
+          "name": "Senra",
+          "score": 12
+        },
+        {
+          "name": "Urata",
+          "score": 10
+        },
+        {
+          "name": "96Neko",
+          "score": 10
+        },
+        {
+          "name": "Mafumafu",
+          "score": 8
+        },
+        {
+          "name": "Soraru",
+          "score": 8
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "short_name": "Senra",
+      "name": "Senra",
+      "genre": "J-Pop, Pop, Ballad",
+      "genres_list": [
+        "J-Pop",
+        "Pop",
+        "Ballad"
+      ],
+      "type": "Soloist, Idol, Cover Artist",
+      "types_list": [
+        "Soloist",
+        "Idol",
+        "Cover Artist"
+      ],
+      "group": "Urashimasakatasen (USSS)",
+      "description": "Japanese utaite with subtle nasal but unique tone. Member of Urashimasakatasen with yellow as his color. Known for voice resembling Hiroshi Kamiya. Graduated from law school.",
+      "short_desc": "Japanese utaite with subtle nasal but unique tone.",
+      "socials_raw": "YouTube: 300K+ subscribers | X: 250K+ | Niconico: 100K+",
+      "social_platforms": [
+        "niconico",
+        "x",
+        "youtube"
+      ],
+      "voice_categories": [],
+      "popularity_score": 190000.0,
+      "similar": [
+        {
+          "name": "Sakata",
+          "score": 12
+        },
+        {
+          "name": "Shima",
+          "score": 12
+        },
+        {
+          "name": "Urata",
+          "score": 10
+        },
+        {
+          "name": "Luz",
+          "score": 8
+        },
+        {
+          "name": "Dongdang",
+          "score": 8
+        },
+        {
+          "name": "Amatsuki",
+          "score": 8
+        }
+      ]
+    },
+    {
+      "no": 9,
+      "short_name": "Tuki",
+      "name": "Tuki",
+      "genre": "J-Pop, Acoustic, Singer-songwriter, Ballad",
+      "genres_list": [
+        "J-Pop",
+        "Acoustic",
+        "Singer-songwriter",
+        "Ballad"
+      ],
+      "type": "Soloist",
+      "types_list": [
+        "Soloist"
+      ],
+      "group": "N/A",
+      "description": "16-year-old Japanese singer-songwriter who debuted with 'Bansanka' in 2023. Youngest solo artist to reach #1 on Billboard Japan Hot 100. Known for keeping identity anonymous. Performed at 75th NHK Kohaku Uta Gassen.",
+      "short_desc": "16-year-old Japanese singer-songwriter who debuted with 'Bansanka' in 2023.",
+      "socials_raw": "YouTube: 800K+ subscribers | X: 300K+ | Instagram: 200K+ | TikTok: 1M+",
+      "social_platforms": [
+        "tiktok",
+        "instagram",
+        "x",
+        "youtube"
+      ],
+      "voice_categories": [
+        "Breathy"
+      ],
+      "popularity_score": 780000.0,
+      "similar": [
+        {
+          "name": "Otomose Raco",
+          "score": 10
+        },
+        {
+          "name": "Sou",
+          "score": 8
+        },
+        {
+          "name": "Senra",
+          "score": 6
+        },
+        {
+          "name": "Luz",
+          "score": 6
+        },
+        {
+          "name": "Dongdang",
+          "score": 6
+        },
+        {
+          "name": "Eve",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "no": 10,
+      "short_name": "Sou",
+      "name": "Sou",
+      "genre": "J-Pop, Rock, Vocaloid, Electronic",
+      "genres_list": [
+        "J-Pop",
+        "Rock",
+        "Vocaloid",
+        "Electronic"
+      ],
+      "type": "Soloist, Cover Artist",
+      "types_list": [
+        "Soloist",
+        "Cover Artist"
+      ],
+      "group": "EveSou (with Eve), Soborogohan (with Isubokuro), Kotonoha Project",
+      "description": "Japanese utaite known for calm and refreshing voice. Close friends with Eve and Isubokuro. Made major debut with album 'Suisou Regulus' in 2015. Also a VTuber since 2021. Sang 'Turing Love' with Nanawo Akari.",
+      "short_desc": "Japanese utaite known for calm and refreshing voice.",
+      "socials_raw": "YouTube: 1M+ subscribers | X: 500K+ | Instagram: 200K+ | Twitcast: 100K+",
+      "social_platforms": [
+        "twitcast",
+        "instagram",
+        "x",
+        "youtube"
+      ],
+      "voice_categories": [
+        "Breathy"
+      ],
+      "popularity_score": 430000.0,
+      "similar": [
+        {
+          "name": "Mafumafu",
+          "score": 12
+        },
+        {
+          "name": "Soraru",
+          "score": 10
+        },
+        {
+          "name": "Meychan",
+          "score": 10
+        },
+        {
+          "name": "Luz",
+          "score": 10
+        },
+        {
+          "name": "AKUGETSU",
+          "score": 10
+        },
+        {
+          "name": "Araki",
+          "score": 10
+        }
+      ]
+    },
+    {
+      "no": 11,
+      "short_name": "Gero",
+      "name": "Gero",
+      "genre": "J-Pop, Rock, Anisong, Metal",
+      "genres_list": [
+        "J-Pop",
+        "Rock",
+        "Anisong",
+        "Metal"
+      ],
+      "type": "Soloist, Cover Artist, Radio Personality",
+      "types_list": [
+        "Soloist",
+        "Cover Artist",
+        "Radio Personality"
+      ],
+      "group": "Nikuchomoranma (with Meychan)",
+      "description": "Japanese rock and anisong singer known for powerful, emotional voice spanning four octaves. Host of annual utaite festival 'Chang Gero Sonic' since 2013. Made major debut with 'BELOVEDxSURVIVAL' (Brothers Conflict OP) in 2013.",
+      "short_desc": "Japanese rock and anisong singer known for powerful, emotional voice spanning four octa...",
+      "socials_raw": "YouTube: 516K subscribers | X: 400K+ | Instagram: 150K+ | Niconico: 210K followers",
+      "social_platforms": [
+        "niconico",
+        "instagram",
+        "x",
+        "youtube"
+      ],
+      "voice_categories": [
+        "Powerful"
+      ],
+      "popularity_score": 915000.0,
+      "similar": [
+        {
+          "name": "Chogakusei",
+          "score": 14
+        },
+        {
+          "name": "Meychan",
+          "score": 10
+        },
+        {
+          "name": "Araki",
+          "score": 10
+        },
+        {
+          "name": "Mafumafu",
+          "score": 8
+        },
+        {
+          "name": "Soraru",
+          "score": 8
+        },
+        {
+          "name": "Urata",
+          "score": 8
+        }
+      ]
+    },
+    {
+      "no": 12,
+      "short_name": "Meychan",
+      "name": "Meychan",
+      "genre": "J-Pop, Vocaloid, Jazz, Rock",
+      "genres_list": [
+        "J-Pop",
+        "Vocaloid",
+        "Jazz",
+        "Rock"
+      ],
+      "type": "Soloist, Cover Artist, Songwriter",
+      "types_list": [
+        "Soloist",
+        "Cover Artist",
+        "Songwriter"
+      ],
+      "group": "Nikuchomoranma (with Gero), Aranarumey (with Araki & nqrse)",
+      "description": "Japanese utaite who started in 2011 at age 15. Known for middle-range nasal voice that became more cute and clear around 2015. Sang 'Squad!' (High Card ED) and 'Shutter Chance' (2.5D Ririsa OP).",
+      "short_desc": "Japanese utaite who started in 2011 at age 15.",
+      "socials_raw": "YouTube: 500K+ subscribers | X: 300K+ | Instagram: 150K+ | LINE: 100K+",
+      "social_platforms": [
+        "instagram",
+        "x",
+        "line",
+        "youtube"
+      ],
+      "voice_categories": [
+        "Versatile"
+      ],
+      "popularity_score": 285000.0,
+      "similar": [
+        {
+          "name": "Mafumafu",
+          "score": 16
+        },
+        {
+          "name": "Eve",
+          "score": 12
+        },
+        {
+          "name": "Soraru",
+          "score": 12
+        },
+        {
+          "name": "Araki",
+          "score": 12
+        },
+        {
+          "name": "Chogakusei",
+          "score": 12
+        },
+        {
+          "name": "Sou",
+          "score": 10
+        }
+      ]
+    },
+    {
+      "no": 13,
+      "short_name": "nqrse",
+      "name": "nqrse",
+      "genre": "Hip-Hop, Rap, Vocaloid, J-Pop",
+      "genres_list": [
+        "Hip-Hop",
+        "Rap",
+        "Vocaloid",
+        "J-Pop"
+      ],
+      "type": "Rapper, Utaite, Lyricist",
+      "types_list": [
+        "Rapper",
+        "Utaite",
+        "Lyricist"
+      ],
+      "group": "Aranaru (with Araki), Aranarumey (with Araki & Meychan), XYZ Tour",
+      "description": "Japanese utaite rapper known for powerful and expressive rap verses. Often collaborates with Soraru, Mafumafu, luz, Araki. Released solo album 'NEGATIVE' in 2016. Known for fast-paced rapping with little pauses.",
+      "short_desc": "Japanese utaite rapper known for powerful and expressive rap verses.",
+      "socials_raw": "YouTube: 400K+ subscribers | X: 350K+ | Instagram: 100K+ | SoundCloud: 50K+",
+      "social_platforms": [
+        "soundcloud",
+        "instagram",
+        "x",
+        "youtube"
+      ],
+      "voice_categories": [
+        "Powerful"
+      ],
+      "popularity_score": 270000.0,
+      "similar": [
+        {
+          "name": "Araki",
+          "score": 8
+        },
+        {
+          "name": "Chogakusei",
+          "score": 8
+        },
+        {
+          "name": "Reol",
+          "score": 8
+        },
+        {
+          "name": "Gero",
+          "score": 6
+        },
+        {
+          "name": "Meychan",
+          "score": 6
+        },
+        {
+          "name": "Ado",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "no": 14,
+      "short_name": "Luz",
+      "name": "Luz",
+      "genre": "J-Pop, Vocaloid, Ballad, Electronic",
+      "genres_list": [
+        "J-Pop",
+        "Vocaloid",
+        "Ballad",
+        "Electronic"
+      ],
+      "type": "Soloist, Cover Artist",
+      "types_list": [
+        "Soloist",
+        "Cover Artist"
+      ],
+      "group": "N/A (passed away in 2025)",
+      "description": "Japanese utaite with upper register voice that was uniquely emotive. Half Japanese (father) and Filipino-German-American (mother). Passed away suddenly on August 19, 2025 at age 32. Known for covers of emotional and slow songs.",
+      "short_desc": "Japanese utaite with upper register voice that was uniquely emotive.",
+      "socials_raw": "YouTube: 545K monthly listeners | X: 200K+ | Instagram: 100K+ (deactivated)",
+      "social_platforms": [
+        "instagram",
+        "x",
+        "youtube"
+      ],
+      "voice_categories": [
+        "Unique"
+      ],
+      "popularity_score": 170000.0,
+      "similar": [
+        {
+          "name": "Amatsuki",
+          "score": 12
+        },
+        {
+          "name": "96Neko",
+          "score": 12
+        },
+        {
+          "name": "Mafumafu",
+          "score": 10
+        },
+        {
+          "name": "Sou",
+          "score": 10
+        },
+        {
+          "name": "Dongdang",
+          "score": 10
+        },
+        {
+          "name": "Soraru",
+          "score": 8
+        }
+      ]
+    },
+    {
+      "no": 15,
+      "short_name": "AKUGETSU",
+      "name": "AKUGETSU",
+      "genre": "J-Pop, Rock, Vocaloid, K-Pop",
+      "genres_list": [
+        "J-Pop",
+        "Rock",
+        "Vocaloid",
+        "K-Pop"
+      ],
+      "type": "Soloist, Cover Artist, Voice Actor",
+      "types_list": [
+        "Soloist",
+        "Cover Artist",
+        "Voice Actor"
+      ],
+      "group": "Alien Stage (voice of Till), AntiBuzzing Club",
+      "description": "South Korean singer and utaite who began in 2018. Known for strong, energetic mid-ranged voice with slight huskiness. Voice of Till in Korean web-series 'Alien Stage'. Released first mini-album 'AKU' in August 2025.",
+      "short_desc": "South Korean singer and utaite who began in 2018.",
+      "socials_raw": "YouTube: 200K+ subscribers | X: 150K+ | Spotify: 50K+ | Melon: 30K+",
+      "social_platforms": [
+        "spotify",
+        "x",
+        "youtube"
+      ],
+      "voice_categories": [],
+      "popularity_score": 90000.0,
+      "similar": [
+        {
+          "name": "Mafumafu",
+          "score": 10
+        },
+        {
+          "name": "Soraru",
+          "score": 10
+        },
+        {
+          "name": "Sou",
+          "score": 10
+        },
+        {
+          "name": "Meychan",
+          "score": 10
+        },
+        {
+          "name": "Araki",
+          "score": 10
+        },
+        {
+          "name": "Dongdang",
+          "score": 10
+        }
+      ]
+    },
+    {
+      "no": 16,
+      "short_name": "Araki",
+      "name": "Araki",
+      "genre": "J-Pop, Rock, Vocaloid, Metal",
+      "genres_list": [
+        "J-Pop",
+        "Rock",
+        "Vocaloid",
+        "Metal"
+      ],
+      "type": "Soloist, Cover Artist",
+      "types_list": [
+        "Soloist",
+        "Cover Artist"
+      ],
+      "group": "AXIZ (with K.F.J), Aranaru (with nqrse), Aranarumey, XYZ Tour",
+      "description": "Japanese utaite with strong, clear chest voice that can easily hit high notes. Known for 5-star rating system on covers. Most popular solo cover is 'ECHO' with 9M+ views. Name derived from Jojo's Bizarre Adventure creator Hirohiko Araki.",
+      "short_desc": "Japanese utaite with strong, clear chest voice that can easily hit high notes.",
+      "socials_raw": "YouTube: 600K+ subscribers | X: 400K+ | Niconico: 200K+ followers",
+      "social_platforms": [
+        "niconico",
+        "x",
+        "youtube"
+      ],
+      "voice_categories": [],
+      "popularity_score": 320000.0,
+      "similar": [
+        {
+          "name": "Meychan",
+          "score": 12
+        },
+        {
+          "name": "Chogakusei",
+          "score": 12
+        },
+        {
+          "name": "Mafumafu",
+          "score": 10
+        },
+        {
+          "name": "Soraru",
+          "score": 10
+        },
+        {
+          "name": "Sou",
+          "score": 10
+        },
+        {
+          "name": "Gero",
+          "score": 10
+        }
+      ]
+    },
+    {
+      "no": 17,
+      "short_name": "Dongdang",
+      "name": "Dongdang",
+      "genre": "J-Pop, Vocaloid, K-Pop, Ballad",
+      "genres_list": [
+        "J-Pop",
+        "Vocaloid",
+        "K-Pop",
+        "Ballad"
+      ],
+      "type": "Soloist, Cover Artist",
+      "types_list": [
+        "Soloist",
+        "Cover Artist"
+      ],
+      "group": "N/A",
+      "description": "Korean utaite known for soft and gentle voice. Debuted on YouTube in 2016. Most popular cover is 'Honeymoon Un Deux Trois' with 16M views. Signed with INCS Toenter in 2023. Known for covering Vocaloid, J-pop, and K-pop songs.",
+      "short_desc": "Korean utaite known for soft and gentle voice.",
+      "socials_raw": "YouTube: 800K+ subscribers | X: 200K+ | Instagram: 100K+ | Niconico: 50K+",
+      "social_platforms": [
+        "niconico",
+        "instagram",
+        "x",
+        "youtube"
+      ],
+      "voice_categories": [],
+      "popularity_score": 190000.0,
+      "similar": [
+        {
+          "name": "Luz",
+          "score": 10
+        },
+        {
+          "name": "AKUGETSU",
+          "score": 10
+        },
+        {
+          "name": "Mafumafu",
+          "score": 8
+        },
+        {
+          "name": "Soraru",
+          "score": 8
+        },
+        {
+          "name": "Senra",
+          "score": 8
+        },
+        {
+          "name": "Sou",
+          "score": 8
+        }
+      ]
+    },
+    {
+      "no": 18,
+      "short_name": "Otomose Raco",
+      "name": "Otomose Raco",
+      "genre": "J-Pop, VTuber Music, Acoustic",
+      "genres_list": [
+        "J-Pop",
+        "VTuber Music",
+        "Acoustic"
+      ],
+      "type": "Soloist, VTuber, Cover Artist",
+      "types_list": [
+        "Soloist",
+        "VTuber",
+        "Cover Artist"
+      ],
+      "group": "MilPro Nova (VTuber agency)",
+      "description": "Japanese VTuber and singer affiliated with MilPro Nova. Known for clean and transparent high notes as well as stable low notes. Fan mark is otter (🦦💛). Started YouTube channel in November 2023.",
+      "short_desc": "Japanese VTuber and singer affiliated with MilPro Nova.",
+      "socials_raw": "YouTube: 162K subscribers | X: 50K+ | Instagram: 30K+",
+      "social_platforms": [
+        "instagram",
+        "x",
+        "youtube"
+      ],
+      "voice_categories": [
+        "Breathy"
+      ],
+      "popularity_score": 207000.0,
+      "similar": [
+        {
+          "name": "Tuki",
+          "score": 10
+        },
+        {
+          "name": "Sou",
+          "score": 10
+        },
+        {
+          "name": "96Neko",
+          "score": 8
+        },
+        {
+          "name": "Mafumafu",
+          "score": 6
+        },
+        {
+          "name": "Soraru",
+          "score": 6
+        },
+        {
+          "name": "Urata",
+          "score": 6
+        }
+      ]
+    },
+    {
+      "no": 19,
+      "short_name": "Amatsuki",
+      "name": "Amatsuki",
+      "genre": "J-Pop, Pop, Vocaloid, Anisong",
+      "genres_list": [
+        "J-Pop",
+        "Pop",
+        "Vocaloid",
+        "Anisong"
+      ],
+      "type": "Soloist, Cover Artist, YouTuber",
+      "types_list": [
+        "Soloist",
+        "Cover Artist",
+        "YouTuber"
+      ],
+      "group": "Circle of Friends (COF), Melost (with Hashiyan)",
+      "description": "Japanese utaite musician and YouTuber born June 30, 1991. Known for cheery shota voice and youthful appearance. Major debut with 'Hello, World!' under King Records in 2014. Also does video encoding for other utaite.",
+      "short_desc": "Japanese utaite musician and YouTuber born June 30, 1991.",
+      "socials_raw": "YouTube: 2.02M subscribers | X: 800K+ | Instagram: 400K+ | Sub-channel: 289K",
+      "social_platforms": [
+        "instagram",
+        "x",
+        "youtube"
+      ],
+      "voice_categories": [
+        "Unique"
+      ],
+      "popularity_score": 2700000.0,
+      "similar": [
+        {
+          "name": "96Neko",
+          "score": 14
+        },
+        {
+          "name": "Luz",
+          "score": 12
+        },
+        {
+          "name": "Urata",
+          "score": 10
+        },
+        {
+          "name": "Mafumafu",
+          "score": 8
+        },
+        {
+          "name": "Soraru",
+          "score": 8
+        },
+        {
+          "name": "Sakata",
+          "score": 8
+        }
+      ]
+    },
+    {
+      "no": 20,
+      "short_name": "96Neko",
+      "name": "96Neko (Kuroneko)",
+      "genre": "J-Pop, Vocaloid, Rock, Pop",
+      "genres_list": [
+        "J-Pop",
+        "Vocaloid",
+        "Rock",
+        "Pop"
+      ],
+      "type": "Soloist, Cover Artist, VTuber",
+      "types_list": [
+        "Soloist",
+        "Cover Artist",
+        "VTuber"
+      ],
+      "group": "N/A (solo)",
+      "description": "Japanese utaite known for husky, lower-range vocals and being a 'ryouseirui' (able to sing both male and female parts). Also a VTuber under name Kuroki Natsume. From Osaka. Known for humorous lyrics in parody songs.",
+      "short_desc": "Japanese utaite known for husky, lower-range vocals and being a 'ryouseirui' (able to s...",
+      "socials_raw": "YouTube: 1M+ subscribers | X: 500K+ | Niconico: 2.3M+ mylists | Instagram: 200K+",
+      "social_platforms": [
+        "niconico",
+        "instagram",
+        "x",
+        "youtube"
+      ],
+      "voice_categories": [
+        "Unique"
+      ],
+      "popularity_score": 1320000.0,
+      "similar": [
+        {
+          "name": "Amatsuki",
+          "score": 14
+        },
+        {
+          "name": "Luz",
+          "score": 12
+        },
+        {
+          "name": "Mafumafu",
+          "score": 10
+        },
+        {
+          "name": "Soraru",
+          "score": 10
+        },
+        {
+          "name": "Shima",
+          "score": 10
+        },
+        {
+          "name": "Sou",
+          "score": 10
+        }
+      ]
+    },
+    {
+      "no": 21,
+      "short_name": "Chogakusei",
+      "name": "Chogakusei",
+      "genre": "J-Pop, Rock, Vocaloid, Metal",
+      "genres_list": [
+        "J-Pop",
+        "Rock",
+        "Vocaloid",
+        "Metal"
+      ],
+      "type": "Soloist, Cover Artist, Songwriter",
+      "types_list": [
+        "Soloist",
+        "Cover Artist",
+        "Songwriter"
+      ],
+      "group": "SU→PANDA (with Black Panda)",
+      "description": "Japanese utaite known for low and raspy voice with signature black Venetian mask in covers. Started uploading at age 11 in 2011. Known for 'Extraordinary screaming voice' (chōzetsu ganari voice). Most viewed cover is 'Bocca Della Verità' with 11M+ views.",
+      "short_desc": "Japanese utaite known for low and raspy voice with signature black Venetian mask in cov...",
+      "socials_raw": "YouTube: 990K subscribers | X: 300K+ | Twitcast: 100K+",
+      "social_platforms": [
+        "twitcast",
+        "x",
+        "youtube"
+      ],
+      "voice_categories": [
+        "Powerful"
+      ],
+      "popularity_score": 1200000.0,
+      "similar": [
+        {
+          "name": "Gero",
+          "score": 14
+        },
+        {
+          "name": "Mafumafu",
+          "score": 12
+        },
+        {
+          "name": "Soraru",
+          "score": 12
+        },
+        {
+          "name": "Meychan",
+          "score": 12
+        },
+        {
+          "name": "Araki",
+          "score": 12
+        },
+        {
+          "name": "Sou",
+          "score": 10
+        }
+      ]
+    },
+    {
+      "no": 22,
+      "short_name": "Reol",
+      "name": "Reol",
+      "genre": "J-Pop, Electronic, Hip-Hop, EDM",
+      "genres_list": [
+        "J-Pop",
+        "Electronic",
+        "Hip-Hop",
+        "EDM"
+      ],
+      "type": "Soloist, Songwriter, Composer, Record Producer",
+      "types_list": [
+        "Soloist",
+        "Songwriter",
+        "Composer",
+        "Record Producer"
+      ],
+      "group": "Former member of REOL (with Giga & Okiku, 2015-2017)",
+      "description": "Japanese singer-songwriter and record producer. Began as utaite in 2012. First Japanese female solo artist to reach 1M YouTube subscribers in 2019. Known for high-pitched, raspy, strong voice. Viral hit 'LUVORATORRRRRY!' with nqrse has 100M+ views. Performed at Nippon Budokan in 2024.",
+      "short_desc": "Japanese singer-songwriter and record producer.",
+      "socials_raw": "YouTube: 1.74M subscribers | X: 600K+ | Instagram: 400K+ | Spotify: 2M+ monthly listeners",
+      "social_platforms": [
+        "spotify",
+        "instagram",
+        "x",
+        "youtube"
+      ],
+      "voice_categories": [
+        "Powerful"
+      ],
+      "popularity_score": 2300000.0,
+      "similar": [
+        {
+          "name": "Chogakusei",
+          "score": 10
+        },
+        {
+          "name": "Eve",
+          "score": 8
+        },
+        {
+          "name": "Mafumafu",
+          "score": 8
+        },
+        {
+          "name": "Gero",
+          "score": 8
+        },
+        {
+          "name": "nqrse",
+          "score": 8
+        },
+        {
+          "name": "Ado",
+          "score": 6
+        }
+      ]
+    }
+  ]
+}

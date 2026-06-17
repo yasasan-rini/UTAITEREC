@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="UTAITEREC - A place to find your new favorite Utaite. Discover Japanese cover artists, voice types, and recommendations.">
+  <title>Database - UTAITEREC</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+
+  <header class="page-header">
+    <div class="container">
+      <h1 class="page-header__title">UTAITEREC</h1>
+      
+    </div>
+  </header>
+
+  <nav class="site-nav" role="navigation" aria-label="Main navigation">
+    <div class="site-nav__container">
+      <a href="index.html" class="site-nav__logo">UTAITEREC</a>
+      <input type="checkbox" id="menu-toggle" class="menu-toggle" hidden>
+      <label for="menu-toggle" class="menu-button" aria-label="Toggle navigation menu">☰</label>
+      <ul class="site-nav__links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="recommendation.html">Recommendation</a></li>
+        <li><a href="database.html" class="active">Database</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main id="main-content">
+
+<div class="database-page">
+  <!-- Rankings Section -->
+  <section class="rankings-section">
+    <div class="container">
+      <div class="rankings-grid">
+        <div class="ranking-column">
+          <h2 class="ranking-column__title">Popular Now!</h2>
+        <a href="detail/eve.html" class="artist-card-sm animate-fadeInUp stagger-1">
+          <img class="artist-card-sm__img" src="assets/artists/eve.jpg" alt="Eve">
+          <div class="artist-card-sm__info">
+            <div class="artist-card-sm__name">#1 Eve</div>
+            <span class="artist-card-sm__link">View Details</span>
+          </div>
+        </a>
+        <a href="detail/ado.html" class="artist-card-sm animate-fadeInUp stagger-2">
+          <img class="artist-card-sm__img" src="assets/artists/ado.jpg" alt="Ado">
+          <div class="artist-card-sm__info">
+            <div class="artist-card-sm__name">#2 Ado</div>
+            <span class="artist-card-sm__link">View Details</span>
+          </div>
+        </a>
+        <a href="detail/mafumafu.html" class="artist-card-sm animate-fadeInUp stagger-3">
+          <img class="artist-card-sm__img" src="assets/artists/mafumafu.jpg" alt="Mafumafu">
+          <div class="artist-card-sm__info">
+            <div class="artist-card-sm__name">#3 Mafumafu</div>
+            <span class="artist-card-sm__link">View Details</span>
+          </div>
+        </a>
+        </div>
+        <div class="ranking-column">
+          <h2 class="ranking-column__title">Underrated List!</h2>
+        <a href="detail/akugetsu.html" class="artist-card-sm animate-fadeInUp stagger-1">
+          <img class="artist-card-sm__img" src="assets/artists/akugetsu.jpg" alt="AKUGETSU">
+          <div class="artist-card-sm__info">
+            <div class="artist-card-sm__name">#1 AKUGETSU</div>
+            <span class="artist-card-sm__link">View Details</span>
+          </div>
+        </a>
+        <a href="detail/luz.html" class="artist-card-sm animate-fadeInUp stagger-2">
+          <img class="artist-card-sm__img" src="assets/artists/luz.jpg" alt="Luz">
+          <div class="artist-card-sm__info">
+            <div class="artist-card-sm__name">#2 Luz</div>
+            <span class="artist-card-sm__link">View Details</span>
+          </div>
+        </a>
+        <a href="detail/senra.html" class="artist-card-sm animate-fadeInUp stagger-3">
+          <img class="artist-card-sm__img" src="assets/artists/senra.jpg" alt="Senra">
+          <div class="artist-card-sm__info">
+            <div class="artist-card-sm__name">#3 Senra</div>
+            <span class="artist-card-sm__link">View Details</span>
+          </div>
+        </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Search Section -->
+  <section class="search-section">
+    <div class="container">
+      <h2 class="search-section__title">Search your Utaite!</h2>
+      <div class="search-box">
+        <input type="text" class="search-box__input" placeholder="Type name..." aria-label="Search for an artist">
+        <button class="btn btn-primary" type="button">Search</button>
+      </div>
+    </div>
+    <svg class="search-section__decor" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+      <circle cx="11" cy="11" r="8"/>
+      <path d="M21 21l-4.35-4.35"/>
+    </svg>
+  </section>
+
+  <!-- Alphabet Filter -->
+  <section class="alphabet-section">
+    <div class="container">
+      <div class="alphabet-filter">
+        <a href="#letter-A" class="alphabet-btn">A</a>
+        <span class="alphabet-btn" style="opacity:0.4;cursor:default;">B</span>
+        <a href="#letter-C" class="alphabet-btn">C</a>
+        <a href="#letter-D" class="alphabet-btn">D</a>
+        <a href="#letter-E" class="alphabet-btn">E</a>
+        <span class="alphabet-btn" style="opacity:0.4;cursor:default;">F</span>
+        <a href="#letter-G" class="alphabet-btn">G</a>
+        <span class="alphabet-btn" style="opacity:0.4;cursor:default;">H</span>
+        <span class="alphabet-btn" style="opacity:0.4;cursor:default;">I</span>
+        <span class="alphabet-btn" style="opacity:0.4;cursor:default;">J</span>
+        <span class="alphabet-btn" style="opacity:0.4;cursor:default;">K</span>
+        <a href="#letter-L" class="alphabet-btn">L</a>
+        <a href="#letter-M" class="alphabet-btn">M</a>
+        <a href="#letter-N" class="alphabet-btn">N</a>
+        <a href="#letter-O" class="alphabet-btn">O</a>
+        <span class="alphabet-btn" style="opacity:0.4;cursor:default;">P</span>
+        <span class="alphabet-btn" style="opacity:0.4;cursor:default;">Q</span>
+        <a href="#letter-R" class="alphabet-btn">R</a>
+        <a href="#letter-S" class="alphabet-btn">S</a>
+        <a href="#letter-T" class="alphabet-btn">T</a>
+        <a href="#letter-U" class="alphabet-btn">U</a>
+        <span class="alphabet-btn" style="opacity:0.4;cursor:default;">V</span>
+        <span class="alphabet-btn" style="opacity:0.4;cursor:default;">W</span>
+        <span class="alphabet-btn" style="opacity:0.4;cursor:default;">X</span>
+        <span class="alphabet-btn" style="opacity:0.4;cursor:default;">Y</span>
+        <span class="alphabet-btn" style="opacity:0.4;cursor:default;">Z</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Artist List -->
+  <section class="artist-list-section">
+    <div class="container">
+
+    <div class="artist-letter-group" id="letter-9">
+      <div class="artist-letter-header">
+        <span class="artist-letter-circle">9</span>
+      </div>
+      <a href="detail/96neko.html" class="artist-list-item">
+        <span class="artist-list-item__name">96Neko</span>
+        <span class="artist-list-item__meta"> - Soloist, Cover Artist, VTuber</span>
+      </a>
+    </div>
+
+    <div class="artist-letter-group" id="letter-A">
+      <div class="artist-letter-header">
+        <span class="artist-letter-circle">A</span>
+      </div>
+      <a href="detail/ado.html" class="artist-list-item">
+        <span class="artist-list-item__name">Ado</span>
+        <span class="artist-list-item__meta"> - Soloist, Utaite</span>
+      </a>
+      <a href="detail/akugetsu.html" class="artist-list-item">
+        <span class="artist-list-item__name">AKUGETSU</span>
+        <span class="artist-list-item__meta"> - Soloist, Cover Artist, Voice Actor</span>
+      </a>
+      <a href="detail/amatsuki.html" class="artist-list-item">
+        <span class="artist-list-item__name">Amatsuki</span>
+        <span class="artist-list-item__meta"> - Soloist, Cover Artist, YouTuber</span>
+      </a>
+      <a href="detail/araki.html" class="artist-list-item">
+        <span class="artist-list-item__name">Araki</span>
+        <span class="artist-list-item__meta"> - Soloist, Cover Artist</span>
+      </a>
+    </div>
+
+    <div class="artist-letter-group" id="letter-C">
+      <div class="artist-letter-header">
+        <span class="artist-letter-circle">C</span>
+      </div>
+      <a href="detail/chogakusei.html" class="artist-list-item">
+        <span class="artist-list-item__name">Chogakusei</span>
+        <span class="artist-list-item__meta"> - Soloist, Cover Artist, Songwriter</span>
+      </a>
+    </div>
+
+    <div class="artist-letter-group" id="letter-D">
+      <div class="artist-letter-header">
+        <span class="artist-letter-circle">D</span>
+      </div>
+      <a href="detail/dongdang.html" class="artist-list-item">
+        <span class="artist-list-item__name">Dongdang</span>
+        <span class="artist-list-item__meta"> - Soloist, Cover Artist</span>
+      </a>
+    </div>
+
+    <div class="artist-letter-group" id="letter-E">
+      <div class="artist-letter-header">
+        <span class="artist-letter-circle">E</span>
+      </div>
+      <a href="detail/eve.html" class="artist-list-item">
+        <span class="artist-list-item__name">Eve</span>
+        <span class="artist-list-item__meta"> - Soloist, Vocaloid Producer, Songwriter</span>
+      </a>
+    </div>
+
+    <div class="artist-letter-group" id="letter-G">
+      <div class="artist-letter-header">
+        <span class="artist-letter-circle">G</span>
+      </div>
+      <a href="detail/gero.html" class="artist-list-item">
+        <span class="artist-list-item__name">Gero</span>
+        <span class="artist-list-item__meta"> - Soloist, Cover Artist, Radio Personality</span>
+      </a>
+    </div>
+
+    <div class="artist-letter-group" id="letter-L">
+      <div class="artist-letter-header">
+        <span class="artist-letter-circle">L</span>
+      </div>
+      <a href="detail/luz.html" class="artist-list-item">
+        <span class="artist-list-item__name">Luz</span>
+        <span class="artist-list-item__meta"> - Soloist, Cover Artist</span>
+      </a>
+    </div>
+
+    <div class="artist-letter-group" id="letter-M">
+      <div class="artist-letter-header">
+        <span class="artist-letter-circle">M</span>
+      </div>
+      <a href="detail/mafumafu.html" class="artist-list-item">
+        <span class="artist-list-item__name">Mafumafu</span>
+        <span class="artist-list-item__meta"> - Soloist, Cover Artist, Songwriter</span>
+      </a>
+      <a href="detail/meychan.html" class="artist-list-item">
+        <span class="artist-list-item__name">Meychan</span>
+        <span class="artist-list-item__meta"> - Soloist, Cover Artist, Songwriter</span>
+      </a>
+    </div>
+
+    <div class="artist-letter-group" id="letter-N">
+      <div class="artist-letter-header">
+        <span class="artist-letter-circle">N</span>
+      </div>
+      <a href="detail/nqrse.html" class="artist-list-item">
+        <span class="artist-list-item__name">nqrse</span>
+        <span class="artist-list-item__meta"> - Rapper, Utaite, Lyricist</span>
+      </a>
+    </div>
+
+    <div class="artist-letter-group" id="letter-O">
+      <div class="artist-letter-header">
+        <span class="artist-letter-circle">O</span>
+      </div>
+      <a href="detail/otomose-raco.html" class="artist-list-item">
+        <span class="artist-list-item__name">Otomose Raco</span>
+        <span class="artist-list-item__meta"> - Soloist, VTuber, Cover Artist</span>
+      </a>
+    </div>
+
+    <div class="artist-letter-group" id="letter-R">
+      <div class="artist-letter-header">
+        <span class="artist-letter-circle">R</span>
+      </div>
+      <a href="detail/reol.html" class="artist-list-item">
+        <span class="artist-list-item__name">Reol</span>
+        <span class="artist-list-item__meta"> - Soloist, Songwriter, Composer</span>
+      </a>
+    </div>
+
+    <div class="artist-letter-group" id="letter-S">
+      <div class="artist-letter-header">
+        <span class="artist-letter-circle">S</span>
+      </div>
+      <a href="detail/sakata.html" class="artist-list-item">
+        <span class="artist-list-item__name">Sakata</span>
+        <span class="artist-list-item__meta"> - Soloist, Idol, Cover Artist</span>
+      </a>
+      <a href="detail/senra.html" class="artist-list-item">
+        <span class="artist-list-item__name">Senra</span>
+        <span class="artist-list-item__meta"> - Soloist, Idol, Cover Artist</span>
+      </a>
+      <a href="detail/shima.html" class="artist-list-item">
+        <span class="artist-list-item__name">Shima</span>
+        <span class="artist-list-item__meta"> - Soloist, Idol, Cover Artist</span>
+      </a>
+      <a href="detail/soraru.html" class="artist-list-item">
+        <span class="artist-list-item__name">Soraru</span>
+        <span class="artist-list-item__meta"> - Soloist, Cover Artist, Songwriter</span>
+      </a>
+      <a href="detail/sou.html" class="artist-list-item">
+        <span class="artist-list-item__name">Sou</span>
+        <span class="artist-list-item__meta"> - Soloist, Cover Artist</span>
+      </a>
+    </div>
+
+    <div class="artist-letter-group" id="letter-T">
+      <div class="artist-letter-header">
+        <span class="artist-letter-circle">T</span>
+      </div>
+      <a href="detail/tuki.html" class="artist-list-item">
+        <span class="artist-list-item__name">Tuki</span>
+        <span class="artist-list-item__meta"> - Soloist</span>
+      </a>
+    </div>
+
+    <div class="artist-letter-group" id="letter-U">
+      <div class="artist-letter-header">
+        <span class="artist-letter-circle">U</span>
+      </div>
+      <a href="detail/urata.html" class="artist-list-item">
+        <span class="artist-list-item__name">Urata</span>
+        <span class="artist-list-item__meta"> - Soloist, Idol, Cover Artist</span>
+      </a>
+    </div>
+    </div>
+  </section>
+</div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p class="site-footer__text">UTAITEREC - A place to find your new favorite Utaite. Data compiled from public sources.</p>
+    </div>
+  </footer>
+</body>
+</html>

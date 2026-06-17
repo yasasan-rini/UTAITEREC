@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="UTAITEREC - A place to find your new favorite Utaite. Discover Japanese cover artists, voice types, and recommendations.">
+  <title>UTAITEREC - Find Your New Favorite Utaite</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+
+  <header class="page-header">
+    <div class="container">
+      <h1 class="page-header__title">UTAITEREC</h1>
+      <p class="page-header__subtitle">A place to find your new favorite Utaite..</p>
+    </div>
+  </header>
+
+  <nav class="site-nav" role="navigation" aria-label="Main navigation">
+    <div class="site-nav__container">
+      <a href="index.html" class="site-nav__logo">UTAITEREC</a>
+      <input type="checkbox" id="menu-toggle" class="menu-toggle" hidden>
+      <label for="menu-toggle" class="menu-button" aria-label="Toggle navigation menu">☰</label>
+      <ul class="site-nav__links">
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="recommendation.html">Recommendation</a></li>
+        <li><a href="database.html">Database</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main id="main-content">
+
+<!-- Hero Section -->
+<section class="hero">
+  <div class="container">
+    <h2 class="hero__title">UTAITEREC</h2>
+    <p class="hero__subtitle">A place to find your new favorite Utaite..</p>
+  </div>
+</section>
+
+<!-- Photo Collage -->
+<section class="collage-section" aria-label="Artist photo collage">
+  <div class="collage">
+    <div class="collage__photo animate-fadeInUp stagger-1">
+      <img src="assets/artists/eve.jpg" alt="Eve - Japanese utaite singer" loading="lazy">
+    </div>
+    <div class="collage__photo animate-fadeInUp stagger-2">
+      <img src="assets/artists/ado.jpg" alt="Ado - Japanese utaite singer" loading="lazy">
+    </div>
+    <div class="collage__photo animate-fadeInUp stagger-3">
+      <img src="assets/artists/mafumafu.jpg" alt="Mafumafu - Japanese utaite singer" loading="lazy">
+    </div>
+    <div class="collage__photo animate-fadeInUp stagger-4">
+      <img src="assets/artists/soraru.jpg" alt="Soraru - Japanese utaite singer" loading="lazy">
+    </div>
+    <div class="collage__photo animate-fadeInUp stagger-5">
+      <img src="assets/artists/amatsuki.jpg" alt="Amatsuki - Japanese utaite singer" loading="lazy">
+    </div>
+    <div class="collage__photo animate-fadeInUp stagger-6">
+      <img src="assets/artists/reol.jpg" alt="Reol - Japanese utaite singer" loading="lazy">
+    </div>
+  </div>
+</section>
+
+<!-- Musical Staff Navigation -->
+<section class="staff-section" aria-label="Voice category navigation">
+  <div class="staff">
+    <div class="staff__decorations" aria-hidden="true">
+      <div class="diag-line"></div>
+      <div class="diag-line"></div>
+      <div class="diag-line"></div>
+      <div class="diag-line"></div>
+      <div class="diag-line"></div>
+      <div class="diag-line"></div>
+    </div>
+
+    <svg class="staff__clef" viewBox="0 0 50 120" aria-hidden="true">
+      <path d="M25 115 C15 115, 8 108, 8 100 C8 92, 15 85, 25 85 C35 85, 42 92, 42 100 C42 108, 35 115, 25 115 Z M25 80 C20 75, 15 68, 15 58 C15 45, 25 38, 30 30 C35 22, 35 15, 30 10 C28 8, 25 8, 23 10 C20 13, 20 18, 23 22 C25 25, 30 28, 32 32 C38 42, 38 55, 32 65 C28 72, 22 78, 25 85 L28 85 C25 78, 30 72, 35 65 C42 55, 42 40, 35 28 C32 22, 28 18, 26 14 C24 10, 24 6, 28 4 C32 2, 38 4, 40 10 C42 16, 40 24, 35 32 C30 40, 22 48, 22 58 C22 66, 26 72, 30 78" 
+            fill="none" stroke="#5A7A8A" stroke-width="2.5" stroke-linecap="round"/>
+    </svg>
+
+    <div class="staff__lines">
+      <div class="staff__line"></div>
+      <div class="staff__line"></div>
+      <div class="staff__line"></div>
+      <div class="staff__line"></div>
+      <div class="staff__line"></div>
+    </div>
+
+    <div class="staff__notes">
+      <a href="recommendation.html#high-voice" class="note-dot note-dot--high-voice" title="High Voices">
+        <span class="note-dot__label">High Voices</span>
+      </a>
+      <a href="recommendation.html#powerful" class="note-dot note-dot--powerful" title="Powerful">
+        <span class="note-dot__label">Powerful</span>
+      </a>
+      <a href="recommendation.html#breathy" class="note-dot note-dot--breathy" title="Breathy">
+        <span class="note-dot__label">Breathy</span>
+      </a>
+      <a href="recommendation.html#unique" class="note-dot note-dot--unique" title="Unique">
+        <span class="note-dot__label">Unique</span>
+      </a>
+      <a href="recommendation.html#versatile" class="note-dot note-dot--versatile" title="Versatile">
+        <span class="note-dot__label">Versatile</span>
+      </a>
+      <a href="recommendation.html#deep-voice" class="note-dot note-dot--deep-voice" title="Deep Voices">
+        <span class="note-dot__label">Deep Voices</span>
+      </a>
+    </div>
+  </div>
+</section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p class="site-footer__text">UTAITEREC - A place to find your new favorite Utaite. Data compiled from public sources.</p>
+    </div>
+  </footer>
+</body>
+</html>
